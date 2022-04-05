@@ -1,2 +1,2 @@
 # Github-Shiny
-All about shiny app and R programming
+All about shiny web app and R programming
