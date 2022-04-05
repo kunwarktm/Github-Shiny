@@ -1,4 +1,4 @@
-#Using mtcars Dataset form 'R' and Creating a Histogram through user input.
+#Using mtcars Dataset form 'R' and Creating a user input Histogram
 library(shiny)
 ui = fluidPage(
   #Creating a title with Heading 4(size) and aligned to center
